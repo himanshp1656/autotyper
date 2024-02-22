@@ -1,7 +1,7 @@
 # autotyper
 autotyper which mimics human typing and have an accuracy of 80% 
 
-download the autotper.exe from above
+download the autotperv1.exe from above
 
 **Auto Typer Application**
 
