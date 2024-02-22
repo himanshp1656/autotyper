@@ -1,8 +1,7 @@
 # autotyper
-autotyper which mimics human typing and have an accuracy of 80%
-Sure, here's a template for a GitHub repository description for your Auto Typer application:
+autotyper which mimics human typing and have an accuracy of 80% 
 
----
+download the autotper.exe from above
 
 **Auto Typer Application**
 
