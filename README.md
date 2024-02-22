@@ -19,7 +19,7 @@ This is a simple desktop application built with Python and Tkinter that simulate
 2. Choose the delay time using the radio buttons.
 3. Click on the "Start Typing" button to begin the typing simulation.
 4. The application will simulate typing the entered text with the specified delay.
-5. you can open your app or other thing between this delay.
+5. you can open your app or other thing between this delay and put the cursor to the place where you want to start typing.
 
 **Note:**
 - The application requires Python and the PyAutoGUI library to run. 
