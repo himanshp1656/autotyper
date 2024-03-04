@@ -25,6 +25,12 @@ This is a simple desktop application built with Python and Tkinter that simulate
 - The application requires Python and the PyAutoGUI library to run. 
 - To run the application, simply execute the provided executable file (for Windows) or run the Python script if you have Python installed.
 
+
+**Using Code**
+- Simply run the autotyper.py file after some required pip installs
+- pip install tk
+- pip install pyautogui
+
 **Contributing:**
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
