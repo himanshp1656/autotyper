@@ -37,3 +37,6 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 **Credits:**
 - This application was created by [Himanshp1656].
 - Special thanks to the PyAutoGUI and Tkinter communities for their excellent libraries and resources.
+
+  **LICENSE**
+  [MIT LICENSE](LICENSE)
