@@ -12,7 +12,7 @@ autotyper is an application that mimics human typing with an accuracy of 80%. It
 
 ## How to Use:
 
-[![Watch the video](https://www.youtube.com/watch?v=QJkFHR3g8eQ)
+[Watch the video](https://www.youtube.com/watch?v=QJkFHR3g8eQ)
 
 1. Enter the text you want to type in the provided text input area.
 2. Choose the delay time using the radio buttons. This delay indicates the time to put the cursor before starting to type.
