@@ -49,3 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 Please note that currently, we do not have a code signing certificate. As a result, Windows Defender may block the application when downloading or running it. However, you can still run the application without any issues. We are working on obtaining a code signing certificate to improve the user experience.
 
 Feel free to explore the application and contribute to its development. Thank you for your interest in autotyper!
+
+<img src="https://t.bkit.co/w_65eb1b2cc26d8.gif" />
