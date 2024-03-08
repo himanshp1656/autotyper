@@ -11,6 +11,7 @@ def start_typing_with_delay():
     delay_time = delay_var.get()  # Get selected delay time
     typing_content = text_input.get("1.0", "end-1c")  # Get content from text input
     time.sleep(delay_time)  # Add the selected delay time
+    
     for char in typing_content:
         # Introduce errors with 20% probability (80% accuracy)
         if random.random() < 0.2:
@@ -43,7 +44,8 @@ text_input.pack(pady=10)
 # Create a frame for delay options
 delay_frame = tk.Frame(root)
 delay_frame.pack(pady=10)
-
+delay_label = tk.Label(delay_frame, text="Autotyper will start after: ")
+delay_label.pack(side="left")
 # Delay options
 delay_var = tk.IntVar(value=30)  # Default delay time is 30 seconds
 delay_options = [("30 sec", 30), ("60 sec", 60), ("120 sec", 120), ("180 sec", 180)]
