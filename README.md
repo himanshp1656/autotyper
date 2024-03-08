@@ -50,4 +50,3 @@ Please note that currently, we do not have a code signing certificate. As a resu
 
 Feel free to explore the application and contribute to its development. Thank you for your interest in autotyper!
 
-<img src="https://t.bkit.co/w_65eb1b2cc26d8.gif" />
