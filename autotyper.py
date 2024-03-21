@@ -6,7 +6,7 @@ import tkinter as tk
 import pyautogui
 import random
 import time
-
+#  pyinstaller --noconsole --onefile autotyper.py
 def start_typing_with_delay():
     delay_time = delay_var.get()  # Get selected delay time
     typing_content = text_input.get("1.0", "end-1c")  # Get content from text input
@@ -14,7 +14,7 @@ def start_typing_with_delay():
     
     for char in typing_content:
         # Introduce errors with 20% probability (80% accuracy)
-        if random.random() < 0.2:
+        if random.random() < 0.1:
             # Insert a random wrong character
             wrong_char = random.choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^')
             pyautogui.typewrite(wrong_char)
@@ -25,7 +25,7 @@ def start_typing_with_delay():
             pyautogui.press('enter')  # Press enter if special character is '@'
         else:
             pyautogui.typewrite(char)  # Type the character
-        time.sleep(random.uniform(0.1, 0.2))  # Add a small delay between each character
+        time.sleep(random.uniform(0.1, 0.3))  # Add a small delay between each character
 
 # Create the main window
 root = tk.Tk()
@@ -38,7 +38,7 @@ created_by_label = tk.Label(root, text="Created by @himanshp1656")
 created_by_label.pack(side="top", pady=5)
 
 # Create text input area
-text_input = tk.Text(root, height=30, width=60)
+text_input = tk.Text(root, height=35, width=150)
 text_input.pack(pady=10)
 
 # Create a frame for delay options
