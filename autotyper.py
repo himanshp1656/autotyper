@@ -18,14 +18,14 @@ def start_typing_with_delay():
             # Insert a random wrong character
             wrong_char = random.choice('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^')
             pyautogui.typewrite(wrong_char)
-            time.sleep(random.uniform(0.7, 1.12))  # Wait between 0.7 to 1.12 seconds
+            time.sleep(random.uniform(0.05, 0.2))  # Wait between 0.7 to 1.12 seconds
             # Use backspace to delete the wrong character
             pyautogui.press('backspace')
         if char == '@':
             pyautogui.press('enter')  # Press enter if special character is '@'
         else:
             pyautogui.typewrite(char)  # Type the character
-        time.sleep(random.uniform(0.1, 0.3))  # Add a small delay between each character
+        time.sleep(random.uniform(0.05, 0.2))  # Add a small delay between each character
 
 # Create the main window
 root = tk.Tk()
