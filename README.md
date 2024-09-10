@@ -1,5 +1,5 @@
 # autotyper
-[DOWNLOAD LINK](autotyper.vercel.app)
+[DOWNLOAD LINK](https://autotyper.vercel.app)
 autotyper is an application that mimics human typing with an accuracy of 80%. It allows users to simulate typing with optional delays and introduces errors with a specified probability. The application is built with Python and Tkinter, providing an easy-to-use graphical user interface for typing simulation.
 
 ## Features:
