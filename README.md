@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/Download-Click%20Here-brightgreen" alt="Download" width="200"/>](https://autotyper.vercel.app)
 
-Due to some restrictions, we needed to take down the code and .exe file of AutoTyper from GitHub for now. However, you can download the app from the above link; it's safe and secure.
+Due to some restrictions, we needed to take down the code and .exe file of AutoTyper from GitHub for now. However, you can download the app from the above link; it's safe and secure. simply signup and download
 
 [<img src="https://img.shields.io/badge/Download-Click%20Here-brightgreen" alt="Download" width="200"/>](https://autotyper.vercel.app)
 
