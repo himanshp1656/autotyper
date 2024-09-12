@@ -1,4 +1,4 @@
-# AutoTyper
+# ANTI-BAN AutoTyper FOR CODETANTRA
 
 [<img src="https://img.shields.io/badge/Download-Click%20Here-brightgreen" alt="Download" width="200"/>](https://autotyper.vercel.app)
 
@@ -7,7 +7,7 @@ Due to some restrictions, we needed to take down the code and .exe file of AutoT
 [<img src="https://img.shields.io/badge/Download-Click%20Here-brightgreen" alt="Download" width="200"/>](https://autotyper.vercel.app)
 
 
-autotyper is an application that mimics human typing with an accuracy of 80%. It allows users to simulate typing with optional delays and introduces errors with a specified probability. The application is built with Python and Tkinter, providing an easy-to-use graphical user interface for typing simulation.
+ANTI-BAN Autotyper is an application that mimics human typing with an accuracy of 80%. It allows users to simulate typing with optional delays and introduces errors with a specified probability. The application is built with Python and Tkinter, providing an easy-to-use graphical user interface for typing simulation.
 
 ## Features:
 
