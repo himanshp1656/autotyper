@@ -1,4 +1,4 @@
-# ANTI-BAN AutoTyper FOR CODETANTRA
+# ANTI-BAN AutoTyper FOR CODETANTRA AND OTHER APPLICATION THAT BANS AUTOTYPER
 
 [<img src="https://img.shields.io/badge/Download-Click%20Here-brightgreen" alt="Download" width="200"/>](https://autotyper.vercel.app)
 
